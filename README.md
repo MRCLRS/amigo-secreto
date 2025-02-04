@@ -34,13 +34,30 @@ Ao clicar no botão **"SORTEAR!"**, um nome é selecionado aleatoriamente da lis
 
 O projeto é composto pelos seguintes arquivos:
 
-- _index.html:_ Contém a estrutura HTML da página.
-- _styles.css:_ Define os estilos CSS para a interface do usuário.
-- _script.js:_ Implementa a lógica JavaScript para adicionar nomes, validar entradas e realizar o sorteio.
+- **index.html:** Contém a estrutura HTML da página.
+- **styles.css:** Define os estilos CSS para a interface do usuário.
+- **script.js:** Implementa a lógica JavaScript para adicionar nomes, validar entradas e realizar o sorteio.
 
-**VÍDEO DE APRESENTAÇÃO** 🎬
+**COMO EXECUTAR O PROJETO LOCALMENTE** 💻
 
-**CAPTURA EM VÍDEO DA APLICAÇÃO**
+**1) Clone o repositório:**
+- _git clone ht<span>tps://github.com/seu-usuario/amigo-secreto.git_
+
+**2) Navegue até a pasta do projeto:**
+- _cd amigo-secreto_
+
+**3) Abra o projeto:**
+- Abra o arquivo index.html em seu navegador preferido.
+
+**TECNOLOGIAS UTILIZADAS** 🛠️
+
+- **HTML:** Estrutura da página.
+- **CSS:** Estilização e design responsivo.
+- **JavaScript:** Lógica para adicionar nomes, validar entradas e realizar o sorteio.
+
+**LICENÇA** 📜
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 **CAPTURAS DE TELAS** 📸
 
@@ -88,3 +105,10 @@ O projeto é composto pelos seguintes arquivos:
 <div align="left">
 <img src="https://github.com/user-attachments/assets/86f260a0-a358-45b6-877a-80f979d987d9" width="350">
 </div>
+
+**CONTATO** 📧
+
+Caso tenha alguma dúvida ou sugestão, entre em contato!
+
+- **Nome:** Marcelo Rodrigues Rosa
+- **E-mail:** marcelorrosa@gmail.com
